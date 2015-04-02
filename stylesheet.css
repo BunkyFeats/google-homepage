@@ -1,0 +1,36 @@
+#logo{
+	
+	margin-left: 325px;
+	margin-right: 200px;
+	
+	
+
+}
+#input{
+	margin-left: 375px;
+	margin-right: 200px;
+	width: 550px;
+
+}
+
+#lb{
+	margin-left: 425px;
+	margin-right: 200px;
+	position: absolute;
+
+}
+
+#rb{
+	position:relative;
+	margin-left: 725px;
+	margin-right: 200px;
+
+}
+
+}
+
+form {
+	
+	border: 4px solid black;
+
+}
